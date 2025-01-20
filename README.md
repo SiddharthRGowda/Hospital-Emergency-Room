@@ -50,6 +50,10 @@ Data Walkthrough
 Data Connection and Cleaning
 Data Quality Check
 Data Modeling and Processing
+![Image](https://github.com/user-attachments/assets/f2650c8e-4c06-4443-82b0-57eeb20e716e)
+![Image](https://github.com/user-attachments/assets/8403c171-a057-466d-ba70-1ce6b0f69f9e)
+![Image](https://github.com/user-attachments/assets/42cd2884-387d-42ee-968e-50833dddc455)
+![Image](https://github.com/user-attachments/assets/14514983-ace2-4a09-a6c2-a6bcdfc227ca)
 DAX Calculations
 Dashboard Layout and Chart Development
 Insights Generation
